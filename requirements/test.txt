@@ -1,0 +1,10 @@
+-r requirements.txt
+
+tblib  # For parallel testing
+coverage
+django-debug-toolbar
+flake8
+isort<5
+model_bakery
+Faker
+freezegun
